@@ -19,7 +19,7 @@ else if(isNaN(b)){
 }
 else if(c.length<6||c.length>6) {
     alert ("Enter a valid password!Atlest 6 digit ")
-    false
+    false;
 }
 else if(c!=d) {
     alert("Please enter the same password ")
